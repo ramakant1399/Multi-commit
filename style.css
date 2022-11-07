@@ -1,0 +1,31 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+.cont{
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    text-align: center;
+   
+}
+.sp1{
+    background-color: rgb(66, 66, 218);
+    padding: 50px;
+}
+.sp2{
+    background-color: rgb(233, 136, 228);
+    padding: 50px;
+}
+.sp3{
+    background-color: rgb(94, 248, 94);
+    padding: 50px;
+}
+.sp4{
+    background-color: cyan;
+    padding: 50px;
+}
+.sp5{
+    background-color: darkcyan;
+    padding: 50px;
+}
